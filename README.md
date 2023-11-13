@@ -13,14 +13,28 @@
 - 📝 I regularly write articles on **https://medium.com/@pijushghorai**
 - 📄 Know about my experiences **https://www.linkedin.com/in/pijushghorai/**
 
-<div> <a href="https://twitter.com/pijush_ghorai" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/pijushghorai" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://github.com/pijushghorai" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-<a href="https://instagram.com/aalu_postoo" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:pghorai098@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
 </div><h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/pijush_ghorai" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="pijush_ghorai" height="30" width="40" /></a><a href="https://linkedin.com/in/pijushghorai" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="pijushghorai" height="30" width="40" /></a><a href="https://fb.com/pijushghorai20" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/facebook.svg" alt="pijushghorai20" height="30" width="40" /></a><a href="https://instagram.com/aalu_postoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="aalu_postoo" height="30" width="40" /></a><a href="https://medium.com/@pijushghorai" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/medium.svg" alt="@pijushghorai" height="30" width="40" /></a><a href="https://auth.geeksforgeeks.org/user/user/pijush_ghorai" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/geeks-for-geeks.svg" alt="user/pijush_ghorai" height="30" width="40" /></a></p>
+<div align="left">
+  <a href="https://www.linkedin.com/in/pijushghorai/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/aalu_postoo/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://twitter.com/pijush_ghorai" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  </a>
+  <a href="pghorai098@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.youtube.com/@aalupostoo" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  </a>
+  <a href="https://medium.com/@pijushghorai" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
+  </a>
+</div>
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
