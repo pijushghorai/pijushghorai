@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pijushghorai&theme=radical" alt="pijushghorai" /></a> </p>
 
+<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3p2NWd6djE5d3dkeHU0ODZndmw1ZXp2Z3Rid3N1cXp1bzI2YTNlbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUA7bdpLxQhsSQdyog/giphy.gif"  />
+
 - 🔭 I’m currently working on **Salary Prediction Using ML Models**
 - 🌱 I’m currently learning **Javascript and Machine Learning**
 - 💬 Ask me about **Java, Javascript and MySQL**
