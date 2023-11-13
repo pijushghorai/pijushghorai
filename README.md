@@ -92,3 +92,10 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pijushghorai&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pijushghorai&theme=2077" height="180em" />
 </div>
+
+##
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/pijushghorai/pijushghorai/output/snake.svg" alt="Snake animation" />
+
