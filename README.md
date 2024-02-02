@@ -13,8 +13,7 @@
 - 💬 Ask me about **Java, Javascript and MySQL**
 - 📫 How to reach me **pghorai098@gmail.com**
 - 👨‍💻 All of my projects are available at **https://www.linkedin.com/in/pijushghorai/**
-- 📝 I regularly write articles on **https://medium.com/@pijushghorai**
-- 📄 Know about my experiences **https://www.linkedin.com/in/pijushghorai/**
+
 
 
 </div><h3 align="left">Connect with me:</h3>
