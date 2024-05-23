@@ -76,12 +76,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/aalupostoo"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="aalupostoo" /></a></p><br><br>
 
-<h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pijushghorai&langs_count=8&theme=highcontrast" alt=pijushghorai />
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=pijushghorai&show_icons=true&locale=en&theme=highcontrast" alt="pijushghorai" /></p>
-
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=pijushghorai&theme=highcontrast" alt="pijushghorai" /></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
